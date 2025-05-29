@@ -1,8 +1,12 @@
 {
   "name": "@arc2digital/qewd-svelte",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "src/qewdStore.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arc2digital/qewd-svelte.git"
+  },
   "dependencies": {
     "qewd-client": "^2.0.0"
   },
