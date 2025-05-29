@@ -1,7 +1,6 @@
 # qewd-svelte
 This repo provides a set of svelte stores as wrappers for the  [qewd-client](https://github.com/robtweed/qewd-client/) for in a svelte app.
 
-If in doubt, use the `./src/qewd` version in favour over the ewd version, which is for legacy support.
 
 A sample implementation is shown in the `./examples` folder. Currently I've only included a svelte v3 example, but the same principals apply for v4/v5 – i.e. simply include and use the provided svelte store.
 
